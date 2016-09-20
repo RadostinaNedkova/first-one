@@ -1,2 +1,10 @@
 radost
+<<<<<<< HEAD
 aide pakk.....
+=======
+making some changes
+angain and agai
+1234
+aide pak....po 100 puti
+i aide po oshte vednuj..123
+>>>>>>> 0c3c0647e03d048af1d8052dfd759d0ed79c85e6
